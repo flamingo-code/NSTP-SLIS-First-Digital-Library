@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: My Genshin experience
+title: Genshin Impact.png
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of my screenshots as I play the game Genshin Impact
+tagline: Looking back on my Genshin experience
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: A collection of my cute and amazing screenshots as I play the game Genshin Impact
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
